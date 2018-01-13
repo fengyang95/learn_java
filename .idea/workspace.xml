@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="200d57ea-f256-4a4a-863a-abb4c075c22e" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter02/item01/Provider.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter02/item01/Service.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter02/item01/Services.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter02/item01/Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter02/item02/builder/NutritionFacts.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter02/item02/javabeans/NutritionFacts.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter02/item02/telescopingconstructor/NutritionFacts.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter02/item03/enumoration/Elvis.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter02/item03/field/Elvis.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter02/item03/method/Elvis.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter02/item03/serializable/Elvis.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter02/item04/UtilityClass.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter02/item05/Sum.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter02/item05/fastversion/Person.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter02/item05/slowversion/Person.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter02/item06/EmptyStackException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter02/item06/Stack.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter03/item08/CaseInsensitiveString.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter03/item08/Color.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter03/item08/ColorPoint.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter03/item08/CounterPoint.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter03/item08/CounterPointTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter03/item08/Point.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter03/item08/composition/Color.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter03/item08/composition/ColorPoint.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter03/item08/composition/Point.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter03/item09/PhoneNumber.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter03/item10/PhoneNumber.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter03/item11/EmptyStackException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter03/item11/PhoneNumber.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter03/item11/Stack.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter03/item12/PhoneNumber.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter03/item12/WordList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter04/Item20/hierarchy/Circle.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter04/Item20/hierarchy/Figure.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter04/Item20/hierarchy/Rectangle.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter04/Item20/hierarchy/Square.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter04/Item20/taggedclass/Figure.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter04/item14/Point.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter04/item15/Complex.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter04/item16/ForwardingSet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter04/item16/InstrumentedHashSet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter04/item16/InstrumentedSet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter04/item17/Sub.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter04/item17/Super.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter04/item18/AbstractMapEntry.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter04/item18/IntArrays.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter04/item19/PhysicalConstants.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter05/item23/Raw.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter05/item25/Function.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter05/item25/Reduction.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter05/item26/firsttechnqiue/EmptyStackException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter05/item26/firsttechnqiue/Stack.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter05/item26/secondtechnqiue/EmptyStackException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter05/item26/secondtechnqiue/Stack.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter05/item27/GenericSingletonFactory.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter05/item27/GenericStaticFactory.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter05/item27/RecursiveTypeBound.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter05/item27/UnaryFunction.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter05/item27/Union.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter05/item28/EmptyStackException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter05/item28/Function.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter05/item28/RecursiveTypeBound.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter05/item28/Reduction.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter05/item28/Stack.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter05/item28/Swap.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter05/item28/Union.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter05/item29/Favorites.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter05/item29/PrintAnnotation.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter06/item30/Operation.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter06/item30/PayrollDay.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter06/item30/Planet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter06/item30/WeightTable.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter06/item31/Ensemble.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter06/item32/Text.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter06/item33/Herb.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter06/item33/Phase.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter06/item34/BasicOperation.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter06/item34/ExtendedOperation.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter06/item34/Operation.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter06/item35/ExceptionTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter06/item35/RunTests.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter06/item35/Sample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter06/item35/Sample2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter06/item35/Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter06/item36/Bigram.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter07/item39/Attack.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter07/item39/Period.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter07/item41/CollectionClassifier.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter07/item41/Overriding.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter07/item41/SetList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter07/item42/Varargs.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter07/item49/BrokenComparator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter07/item49/Unbelievable.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter07/item53/MakeSet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter08/item46/DiceRolls.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter08/item46/NestedIteration.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter08/item47/RandomBug.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter08/item48/Arithmetic.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter10/item66/brokenstopthread/StopThread.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter10/item66/fixedstopthread1/StopThread.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter10/item66/fixedstopthread2/StopThread.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter10/item67/ForwardingSet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter10/item67/ObservableSet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter10/item67/SetObserver.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter10/item67/Test1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter10/item67/Test2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter10/item67/Test3.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter10/item69/ConcurrentTimer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter10/item69/Intern.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter10/item71/Initialization.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter10/item72/SlowCountDownLatch.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter11/item74/AbstractFoo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter11/item74/Foo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter11/item75/StringList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter11/item76/BogusPeriod.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter11/item76/MutablePeriod.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter11/item76/Period.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter11/item77/Elvis.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter11/item77/ElvisImpersonator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter11/item77/ElvisStealer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter11/item77/enumSingleton/Elvis.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter11/item78/BogusPeriod.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter11/item78/MutablePeriod.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter11/item78/Period.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter1/ComputeExpression.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter1/ShowLogicErrors.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter1/ShowRuntimeErrors.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter1/ShowSyntaxErrors.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter1/Welcome.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter1/WelcomeWithThreeMessages.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter10/BMI.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter10/Course.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter10/LargeFactorial.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter10/Loan.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter10/PalindromeIgnoreNonAlphanumeric.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter10/StackOfIntegers.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter10/TestCourse.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter10/TestLoanClass.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter10/TestStackOfIntegers.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter10/UseBMIClass.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter11/CastingDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter11/CircleFromSimpleGeometricObject.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter11/DistinctNumbers.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter11/DynamicBindingDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter11/MyStack.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter11/PolymorphismDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter11/RectangleFromSimpleGeometricObject.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter11/SimpleGeometricObject.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter11/TestArrayList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter11/TestCircleRectangle.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter12/ChainedExceptionDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter12/CircleWithException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter12/FileNotFoundExceptionDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter12/FinallyDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter12/InputMismatchExceptionDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter12/InvalidRadiusException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter12/Quotient.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter12/QuotientWithException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter12/QuotientWithIf.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter12/QuotientWithMethod.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter12/ReadData.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter12/ReadDataWithAutoClose.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter12/ReadFileFromURL.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter12/ReadFileUsingJFileChooser.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter12/ReplaceText.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter12/TestCircleWithCustomException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter12/TestCircleWithException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter12/TestException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter12/TestFileClass.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter12/WebCrawler.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter12/WriteData.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter12/WriteDataWithAutoClose.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter13/Circle.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter13/ComparableRectangle.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter13/Edible.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter13/GenericSort.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter13/GeometricObject.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter13/HandleEvent.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter13/House.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter13/LargestNumbers.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter13/Rational.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter13/Rectangle.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter13/SortComparableObjects.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter13/SortRectangles.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter13/TestCalendar.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter13/TestEdible.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter13/TestGeometricObject.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter13/TestRationalClass.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter14/BindingDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter14/ButtonInPane.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter14/ClockPane.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter14/DisplayClock.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter14/FontDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter14/MultipleStageDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter14/MyJavaFX.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter14/NodeStyleRotateDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter14/ShowArc.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter14/ShowBorderPane.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter14/ShowCircle.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter14/ShowCircleCentered.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter14/ShowEllipse.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter14/ShowFlowPane.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter14/ShowGridPane.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter14/ShowHBoxVBox.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter14/ShowImage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter14/ShowLine.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter14/ShowPolygon.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter14/ShowRectangle.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter14/ShowText.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter15/AnonymousHandlerDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter15/BallPane.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter15/BounceBallControl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter15/ClockAnimation.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter15/ControlCircle.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter15/ControlCircleWithMouseAndKey.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter15/ControlCircleWithoutEventHandling.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter15/DisplayResizableClock.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter15/FadeTransitionDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter15/FlagRisingAnimation.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter15/HandleEvent.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter15/KeyEventDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter15/LambdaHandlerDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter15/LoanCalculator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter15/MouseEventDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter15/ObservablePropertyDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter15/PathTransitionDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter15/TimelineDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter16/BounceBallSlider.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter16/ButtonDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter16/CheckBoxDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter16/ComboBoxDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter16/DescriptionPane.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter16/FlagAnthem.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter16/LabelWithGraphic.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter16/ListViewDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter16/MediaDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter16/RadioButtonDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter16/ScrollBarDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter16/SliderDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter16/TextAreaDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter16/TextFieldDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter16/TicTacToe.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter17/Copy.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter17/DetectEndOfFile.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter17/TestDataStream.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter17/TestFileStream.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter17/TestObjectInputStream.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter17/TestObjectOutputStream.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter17/TestObjectStreamForArray.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter17/TestRandomAccessFile.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter18/ComputeFactorial.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter18/ComputeFactorialTailRecursion.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter18/ComputeFibonacci.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter18/DirectorySize.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter18/RecursiveBinarySearch.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter18/RecursivePalindrome.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter18/RecursiveSelectionSort.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter18/SierpinskiTriangle.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter18/TowersOfHanoi.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter19/AnyWildCardDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter19/BoundedTypeDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter19/GenericMatrix.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter19/GenericMethodDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter19/GenericSort.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter19/GenericStack.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter19/IntegerMatrix.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter19/Max.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter19/MaxUsingGenericType.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter19/RationalMatrix.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter19/SuperWildCardDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter19/TestIntegerMatrix.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter19/TestRationalMatrix.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter19/WildCardNeedDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter2/ComputeArea.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter2/ComputeAreaWithConsoleInput.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter2/ComputeAreaWithConstant.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter2/ComputeAverage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter2/ComputeChange.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter2/ComputeLoan.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter2/DisplayTime.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter2/FahrenheitToCelsius.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter2/SalesTax.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter2/ShowCurrentTime.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter20/EvaluateExpression.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter20/GeometricObjectComparator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter20/MultipleBounceBall.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter20/PriorityQueueDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter20/TestArrayAndLinkedList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter20/TestCollection.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter20/TestComparator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter20/TestIterator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter20/TestQueue.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter21/CountKeywords.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter21/CountOccurrenceOfWords.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter21/SetListPerformanceTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter21/TestHashSet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter21/TestLinkedHashSet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter21/TestMap.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter21/TestMethodsInCollection.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter21/TestTreeSet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter21/TestTreeSetWithComparator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter22/EfficientPrimeNumbers.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter22/EightQueens.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter22/GCD.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter22/GCDEuclid.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter22/ImprovedFibonacci.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter22/PerformanceTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter22/PrimeNumbers.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter22/SieveOfEratosthenes.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter23/BubbleSort.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter23/CreateLargeFile.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter23/Heap.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter23/HeapSort.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter23/InsertionSort.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter23/MergeSort.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter23/QuickSort.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter23/SortLargeFile.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter24/GenericQueue.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter24/MyAbstractList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter24/MyArrayList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter24/MyLinkedList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter24/MyList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter24/MyPriorityQueue.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter24/TestMyArrayList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter24/TestMyLinkedList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter24/TestPriorityQueue.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter24/TestStackQueue.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter25/AbstractTree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter25/BST.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter25/BSTAnimation.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter25/BTView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter25/HuffmanCode.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter25/TestBST.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter25/TestBSTDelete.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter25/TestBSTWithIterator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter25/Tree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter26/AVLTree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter26/TestAVLTree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter27/MyHashMap.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter27/MyHashSet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter27/MyMap.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter27/MySet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter27/TestMyHashMap.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter27/TestMyHashSet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter28/AbstractGraph.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter28/ConnectedCircles.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter28/DisplayUSMap.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter28/Displayable.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter28/Graph.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter28/GraphView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter28/NineTail.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter28/NineTailModel.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter28/TestBFS.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter28/TestDFS.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter28/TestGraph.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter28/UnweightedGraph.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter29/TestMinimumSpanningTree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter29/TestShortestPath.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter29/WeightedEdge.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter29/WeightedGraph.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter29/WeightedNineTail.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter29/WeightedNineTailModel.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter3/AdditionQuiz.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter3/ChineseZodiac.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter3/ComputeAndInterpretBMI.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter3/ComputeTax.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter3/GuessBirthday.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter3/LeapYear.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter3/Lottery.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter3/SimpleIfDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter3/SubtractionQuiz.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter3/TestBooleanOperators.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter30/AccountWithSyncUsingLock.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter30/AccountWithoutSync.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter30/ConsumerProducer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter30/ConsumerProducerUsingBlockingQueue.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter30/ExecutorDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter30/FlashText.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter30/ParallelMax.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter30/ParallelMergeSort.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter30/TaskThreadDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter30/ThreadCooperation.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter31/Client.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter31/IdentifyHostNameIP.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter31/MultiThreadServer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter31/Server.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter31/StudentAddress.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter31/StudentClient.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter31/StudentServer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter31/TicTacToeClient.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter31/TicTacToeConstants.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter31/TicTacToeServer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter32/FindGrade.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter32/FindGradeUsingPreparedStatement.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter32/FindUserTables.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter32/SimpleJdbc.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter32/TestCallableStatement.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter32/TestDatabaseMetaData.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter32/TestResultSetMetaData.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter4/ComputeAngles.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter4/FormatDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter4/GuessBirthday.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter4/HexDigit2Dec.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter4/LotteryUsingStrings.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter4/OrderTwoCities.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter5/Dec2Hex.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter5/FutureTuition.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter5/GreatestCommonDivisor.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter5/GuessNumber.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter5/GuessNumberOneTime.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter5/MultiplicationTable.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter5/Palindrome.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter5/PrimeNumber.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter5/RepeatAdditionQuiz.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter5/SentinelValue.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter5/SubtractionQuizLoop.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter5/TestBreak.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter5/TestContinue.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter5/TestDoWhile.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter5/TestSum.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter6/Hex2Dec.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter6/Increment.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter6/PrimeNumberMethod.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter6/PrintCalendar.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter6/RandomCharacter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter6/TestMax.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter6/TestMethodOverloading.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter6/TestPassByValue.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter6/TestRandomCharacter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter6/TestReturnGradeMethod.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter6/TestVoidMethod.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter7/AnalyzeNumbers.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter7/BinarySearch.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter7/Calculator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter7/CountLettersInArray.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter7/DeckOfCards.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter7/InsertionSort.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter7/LinearSearch.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter7/LottoNumbers.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter7/SelectionSort.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter7/TestPassArray.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter7/VarArgsDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter8/CheckSudokuSolution.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter8/FindNearestPoints.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter8/GradeExam.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter8/GuessBirthdayUsingArray.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter8/PassTwoDimensionalArray.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter8/Weather.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter9/CircleWithPrivateDataFields.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter9/CircleWithStaticMembers.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter9/TV.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter9/TestCircleWithPrivateDataFields.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter9/TestCircleWithStaticMembers.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter9/TestFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter9/TestPassObject.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter9/TestPoint2D.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter9/TestSimpleCircle.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter9/TestTV.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/examples/chapter9/TotalArea.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/exercises/chapter10/Exercise1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/exercises/chapter5/Exercise1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/exercises/chapter6/Exercise2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/exercises/chapter7/Exercise11.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/exercises/chapter7/Exercise13.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/exercises/chapter7/Exercise8.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/exercises/chapter9/Exercise1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jpl/exercises/chapter9/Exercise9.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/other/FooToo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/other/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/other/Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/other/Test2.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Point.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter04/item14/Point.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Time.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter04/item14/Time.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter02/item01/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-129" />
+    <option name="y" value="145" />
+    <option name="width" value="1604" />
+    <option name="height" value="617" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="learn_java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn_java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learn_java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn_java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\2017fall\programming\code\java\learn_java\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="200d57ea-f256-4a4a-863a-abb4c075c22e" name="Default" comment="" />
+      <created>1515826434864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515826434864</updated>
+      <workItem from="1515826448603" duration="466000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1515826838348</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1515826838348</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="466000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28822732" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter02/item01/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter04/item14/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/examples/chapter04/item14/Time.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
