@@ -6,6 +6,10 @@ package effectivejava.examples.chapter02.item01;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
+/**
+ * @author effectivejava 2rd
+ * @since 2018/1/13
+ */
 public class Services {
 	private Services() {
 	} // Prevents instantiation (Item 4)
