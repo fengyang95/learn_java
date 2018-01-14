@@ -1,0 +1,13 @@
+package
+streams
+ageckag
+egapack
+salcs
+ssalc
+slasc
+clibup
+tictas
+public
+static
+void
+main
