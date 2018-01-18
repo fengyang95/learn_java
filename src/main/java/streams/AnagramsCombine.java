@@ -5,7 +5,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.Arrays;
-import java.util.stream.Collectors;
+import static java.util.stream.Collectors.*;
 import java.util.stream.Stream;
 
 public class AnagramsCombine {
@@ -14,7 +14,7 @@ public class AnagramsCombine {
         int minGroupSize=Integer.parseInt("2");
 
         try(Stream<String> words= Files.lines(dictionary)){
-            words.collect(Collectors.groupingBy(word->alphabetize(word)))
+            words.collect(groupingBy(word->alphabetize(word)))
                     .values().stream()
                     .filter(group->group.size()>=minGroupSize)
                     .forEach(g->System.out.println(g.size()+":"+g));
@@ -26,5 +26,4 @@ public class AnagramsCombine {
         Arrays.sort(a);
         return new String(a);
     }
-
 }

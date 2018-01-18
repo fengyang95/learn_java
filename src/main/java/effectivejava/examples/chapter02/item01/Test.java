@@ -15,39 +15,27 @@ public class Test {
 		System.out.printf("%s, %s, %s%n", s1, s2, s3);
 	}
 
-	private static Provider DEFAULT_PROVIDER = new Provider() {
-		@Override
-		public Service newService() {
-			return new Service() {
+	private static Provider DEFAULT_PROVIDER =()->
+			new Service() {
 				@Override
 				public String toString() {
 					return "Default service";
 				}
 			};
-		}
-	};
 
-	private static Provider COMP_PROVIDER = new Provider() {
-		@Override
-		public Service newService() {
-			return new Service() {
+	private static Provider COMP_PROVIDER = ()->
+			new Service() {
 				@Override
 				public String toString() {
 					return "Complementary service";
 				}
 			};
-		}
-	};
 
-	private static Provider ARMED_PROVIDER = new Provider() {
-		@Override
-		public Service newService() {
-			return new Service() {
+	private static Provider ARMED_PROVIDER =()->
+			new Service() {
 				@Override
 				public String toString() {
 					return "Armed service";
 				}
 			};
-		}
-	};
 }
